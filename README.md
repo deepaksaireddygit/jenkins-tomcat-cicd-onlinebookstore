@@ -1952,10 +1952,10 @@ Feel free to use and modify this project for learning purposes.
 DevOps | AWS | Linux | Docker | Kubernetes | Jenkins | Terraform | Python
 
 GitHub:
-[(Add your GitHub profile link here)
-](https://github.com/deepaksaireddygit)
+[(deepaksaireddygit)](https://github.com/deepaksaireddygit)
+
 LinkedIn:
-[(Add your LinkedIn profile link here)
+[(Arava Deepak Sai Reddy)
 ](https://www.linkedin.com/in/arava-deepak-sai-reddy-367657319/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BidjRmgALSIqOIB4Hb17GAQ%3D%3D)
 ---
 
