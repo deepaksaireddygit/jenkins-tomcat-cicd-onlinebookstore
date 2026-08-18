@@ -1989,12 +1989,12 @@ This project demonstrates a complete CI/CD workflow for deploying a Java web app
 - ✅ Resume Ready
 - ✅ Interview Ready
 
-![AWS EC2 instances](instances.png)
+![AWS EC2 instances](screenshots/instances.png)
 
-![Jenkins pipeline stage view](pipeine_jenkins.png)
+![Jenkins pipeline stage view](screenshots/pipeine_jenkins.png)
 
-![Archived Jenkins WAR artifact](artifact.png)
+![Archived Jenkins WAR artifact](screenshots/artifact.png)
 
-![WAR deployed to Tomcat](tomact_ec2.png)
+![WAR deployed to Tomcat](screenshots/tomact_ec2.png)
 
-![Online Bookstore running on Tomcat](tomcat_webpage.png)
+![Online Bookstore running on Tomcat](screenshots/tomcat_webpage.png)
