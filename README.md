@@ -1947,16 +1947,16 @@ Feel free to use and modify this project for learning purposes.
 
 # 👨‍💻 Author
 
-**Suraj Singh R**
+**Arava Deepak Sai Reddy**
 
-DevOps | AWS | Linux | Docker | Kubernetes | Jenkins | Terraform | Ansible | Python
+DevOps | AWS | Linux | Docker | Kubernetes | Jenkins | Terraform | Python
 
 GitHub:
-(Add your GitHub profile link here)
+[(deepaksaireddygit)](https://github.com/deepaksaireddygit)
 
 LinkedIn:
-(Add your LinkedIn profile link here)
-
+[(Arava Deepak Sai Reddy)
+](https://www.linkedin.com/in/arava-deepak-sai-reddy-367657319/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BidjRmgALSIqOIB4Hb17GAQ%3D%3D)
 ---
 
 # ⭐ If you found this project helpful
